@@ -1,0 +1,23 @@
+:root{
+    --dark-color: #313638;
+    --gradient-color: linear-gradient(to top, #4e0d03, #460a02, #2f0601);
+}
+
+header{
+    margin: 0;
+    background: #1d1e1f;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+}
+
+header h1{
+    margin: 0 2vw;
+    color: white;
+    font-size: 2vw;
+}
+
+header h1 span{
+    color: #ccc;
+    font-size: 4vw;
+}
